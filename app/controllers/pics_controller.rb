@@ -14,4 +14,5 @@ end
 		redirect_to pics_path
 
 	end
-end
+  
+end 
